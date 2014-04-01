@@ -1,0 +1,2 @@
+./system/core/Loader.php:	public function database($params = '', $return = FALSE, $active_record = NULL)
+./system/database/DB_utility.php:	function database_exists($database_name)
